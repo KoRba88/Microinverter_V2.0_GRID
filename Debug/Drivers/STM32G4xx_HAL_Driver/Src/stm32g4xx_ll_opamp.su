@@ -1,0 +1,5 @@
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_opamp.h:958:26:LL_OPAMP_IsLocked	16	static
+../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_opamp.h:985:26:LL_OPAMP_IsTimerMuxLocked	16	static
+../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_opamp.c:105:13:LL_OPAMP_DeInit	24	static
+../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_opamp.c:157:13:LL_OPAMP_Init	24	static
+../Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_ll_opamp.c:231:6:LL_OPAMP_StructInit	16	static
